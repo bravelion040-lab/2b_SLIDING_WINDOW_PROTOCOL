@@ -53,6 +53,20 @@ s.close()
 <img width="1920" height="1080" alt="Screenshot 2026-05-11 085827" src="https://github.com/user-attachments/assets/6fafb49f-aa8e-4bbd-a3a1-6390eb8fb1f5" />
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## CLIENT
 
 
