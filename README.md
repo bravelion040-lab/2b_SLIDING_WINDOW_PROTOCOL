@@ -45,6 +45,8 @@ while i < n:
 s.close()
 ```
 ## OUTPUT
+
+
 ## SERVER
 
 
@@ -54,11 +56,21 @@ s.close()
 ## CLIENT
 
 
+
 <img width="1920" height="1080" alt="Screenshot 2026-05-11 083900" src="https://github.com/user-attachments/assets/7b7a5411-c1c9-4c0d-8fc2-7d5fc63bd032" />
 
 
 
 
 
+
+
+
+
+
+
+
+
 ## RESULT
+
 Thus, python program to perform stop and wait protocol was successfully executed
